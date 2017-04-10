@@ -1,0 +1,125 @@
+algorytm
+kod Ÿród³owy
+kod wynikowy
+kompilacja
+³¹cznik
+schemat blokowy
+operator
+instrukcja
+asembler
+object pascal
+javascript
+smalltalk
+pascal
+translator
+kompilator
+interpreter
+iterator
+biblioteka
+podprogram
+procedura
+c++ builder
+delphi
+kodowanie
+szybkoœæ
+testowanie
+biblioteka
+informatyka
+argument
+typ danych
+zmienna globalna
+zmienna lokalna
+inicjacja
+alternatywa
+archiwum
+plik manifestu
+uruchamianie
+przypisanie
+bezpieczeñstwo
+bitowy operator
+kolekcja
+dana globalna
+ustawienia lokalne
+import statyczny
+sk³adowa
+delete
+dziedziczenie
+dzia³anie
+interfejs
+klasa bazowa
+klasa poromna
+typ ogólny
+edytor tekstu
+rozszerzona pêtla for
+test logiczny
+liczba losowa
+tworzenie
+graf obiektów
+przycisk
+zdarzenie
+instrument midi
+polimorfizm
+kalendarz
+klasa u¿ytkowa
+klasa finalna
+kod bajtowy
+kod pomocniczy
+kod metody
+kolizna nazw
+konflikt nazw
+pole tekstowe
+przeci¹¿enie
+kontrakt
+liczby ca³kowite
+liczby losowe
+litera³y
+maksimum
+manifest
+metapoznanie
+metoda finalna
+metoda globalna
+metoda publiczna
+sekwenser
+minimum
+hermetyzacja
+serializacja
+alternatywa
+koniunkcja
+plik manifestu
+pliki tekstowe
+pliki klasowe
+p³ótno
+strumienie
+strumieñ danych
+szkielet
+serwlety
+w³asny obiekt
+stan obiektu
+stan w¹tku
+switch
+œrednik
+technologia
+przechwytywanie
+Ÿród³o zdarzeñ
+zasiêg zmiennej
+zasiêg metody
+deweloper
+repozytorium
+atrybut
+czystoœæ kodu
+czystoœæ projektu
+dekorator
+dezinformacja
+d³uga nazwa
+dobry kod
+tabulacja
+nag³ówek
+gettery
+settery
+hybryda
+spójnoœæ
+mutatory
+predykaty
+prosy projekt
+
+

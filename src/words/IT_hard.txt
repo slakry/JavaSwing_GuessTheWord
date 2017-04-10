@@ -1,0 +1,99 @@
+UWIERZYTELNIENIE
+identyfikator
+programowanie
+system operacyjny
+defragmentator
+obszar roboczy
+okno dialogowe
+aktywne okno
+pasek tytu³u
+przyciski steruj¹ce oknem
+minimalizacja
+maksymalizacja
+oprogramowanie
+œrodowisko systemowe
+system komputerowy
+menu kontekstowe
+menu podrêczne
+siec komputerowa
+poczta elektroniczna
+komunikat internetowy
+serwer pocztowy
+u¿ytkownik sieci
+serwer internetowy
+wyszukiwarka
+przegl¹darka internetowa
+program antywirusowy
+defragmentacja
+urz¹dzenie peryferyjne
+urz¹dzenie zewnêtrzne
+interpolacja
+justowanie
+multimedia
+naœwietlarka
+minikomputer
+rozdzielczoœæ
+drukarka laserowa
+drukarka atramentowa
+sygna³ cyfrowy
+czêstotliwoœæ próbkowania
+program graficzny
+mistrz klawiatury
+edytor graficzny
+wydrók próbny
+wydruk nak³adowy
+jednoczesna komunikacja
+renderowanie
+magistrala szeregowa
+zanik napiêcia
+sieæ energetyczna
+niska czêstotliwoœæ
+wysoka czêstotliwoœæ
+SPOOFING
+SUPERKOMPUTER
+SYNCHRONICZNA TRANSMISJA
+RASTER
+dziedzina naukowa
+TEMPERATURA BARWY
+protoko³y transmisji
+prawa autorskie
+rozmagnesowanie
+przepustowoœæ
+ZEGAR CZASU RZECZYWISTEGO
+personalizacja
+aktualizacja
+normalizacja
+dziennik zdarzeñ
+konwerter
+debugger
+kompilator
+linker
+drukarka ig³owa
+drukarka termiczna
+drukarka mozaikowa
+drukarka termotransferowa
+instrukcja warunkowa
+instrukcja rekurencyjna
+instrukcja wyboru
+formatowanie dysku
+benchmark
+snifffer
+adresowanie automatyczne
+adresowanie standardowe
+adresowanie wzglêdne
+adresowanie bezwglêdne
+œrednia arytmetyczna
+sortowanie b¹belkowe
+arkusz kalkulacyjny
+modu³ antyspywarowy
+skaner skryptowy
+dialer
+trojan
+wabbit
+rootkit
+mata izolacyjna
+apaska antystatyczna
+listwa przeciwprzepiêciowa
+kapitalik
+wersalik
+pakowanie danych
